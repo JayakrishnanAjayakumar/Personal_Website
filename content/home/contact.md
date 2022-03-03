@@ -25,23 +25,18 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: jxa421@case.edu
+  phone: 234 281 55 65
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 10900 Euclid Avenue (WG Bldg Room 82D)
+    city: Cleveland
+    region: OH
+    postcode: '44106'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    latitude: '41.504576531767384'
+    longitude: '-81.6041538314905'
   contact_links:
     - icon: twitter
       icon_pack: fab
