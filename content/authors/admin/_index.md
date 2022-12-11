@@ -6,7 +6,7 @@ title: Jayakrishnan Ajayakumar
 superuser: true
 
 # Role/position/tagline
-role: Research Associate
+role: Senior Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:

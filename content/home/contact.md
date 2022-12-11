@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: jxa421@case.edu
-  phone: 234 281 55 65
+  phone: 234-281-5565
   address:
     street: 10900 Euclid Avenue (WG Bldg Room 82D)
     city: Cleveland
@@ -41,11 +41,11 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/jay_tvm'
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://cwru.zoom.us/my/jayakrishnanajayakumar'
 
 design:
   columns: '2'

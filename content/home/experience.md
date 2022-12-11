@@ -22,12 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Associate
+  - title: Senior Research Associate
     company: Case Western Reserve University
     company_url: 'https://case.edu/'
     location: Ohio
     date_start: '2019-08-01'
     date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Mentoring Lab Associates
+        * Neural Network modelling for Narrative and Spatial Video Analysis
+        * Developing methodologies for Preserving Spatial Confidentiality
+        
+  - title: Research Associate
+    company: Case Western Reserve University
+    company_url: 'https://case.edu/'
+    location: Ohio
+    date_start: '2019-08-01'
+    date_end: '2022-10-01'
     description: |2-
         Responsibilities include:
         
